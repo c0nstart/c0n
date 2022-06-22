@@ -2,7 +2,7 @@
 Ij.start.canon : IJ Start Canon Setup
 #############
 
-.. image:: get-started-a.png
+.. image:: getstarteb.png
 	      :width: 350px   
 	      :align: center   
 	      :height: 100px 
